@@ -34,10 +34,10 @@ I can offer a strong candidate with a great work ethic whom is capable of mainta
 Thank you for looking at my works so far! Unfortunately, I am not able to put the code directly here. 
 However, if you can follow this link to my [https://www.github.com/kaynenpellegrino] Github, you can see it all there!
 Otherwise, here are direct links to the following projects I completed through school or personally.
-[https://github.com/KaynenPellegrino/FarkleGame] Farkle
-[https://github.com/KaynenPellegrino/Gracioso-Rescue-Pet] Pet Rescue
-[https://github.com/KaynenPellegrino/Luxury-Cruise-Line] Cruise Line
-[https://github.com/KaynenPellegrino/Python-projects-From-School] Python Projects
-[https://github.com/KaynenPellegrino/Fans] FANS Robot
-[https://github.com/KaynenPellegrino/Mock-Photography-Website] Mock Website
-Finally, here is a downloadable copy of my<a href="files/Kaynen Pellegrino Student.docx" download>resume.</a>
+- [https://github.com/KaynenPellegrino/FarkleGame] Farkle
+- [https://github.com/KaynenPellegrino/Gracioso-Rescue-Pet] Pet Rescue
+- [https://github.com/KaynenPellegrino/Luxury-Cruise-Line] Cruise Line
+- [https://github.com/KaynenPellegrino/Python-projects-From-School] Python Projects
+- [https://github.com/KaynenPellegrino/Fans] FANS Robot
+- [https://github.com/KaynenPellegrino/Mock-Photography-Website] Mock Website
+- Finally, here is a downloadable copy of my<a href="files/Kaynen Pellegrino Student.docx" download>resume.</a>
