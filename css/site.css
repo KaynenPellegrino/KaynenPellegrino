@@ -1,0 +1,133 @@
+/*html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
+html,body{font-family:verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
+h1{font-size:36px}
+h2{font-size:30px}
+h3{font-size:24px}
+h4{font-size:20px}
+h5{font-size:18px}
+h6{font-size:16px}
+h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}
+
+Style inputs with type="text", select elements and textareas */
+
+body {
+  background-image: url(../img/back.jpg);
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+p{
+font-size: 22px;
+color:White;
+font-style: sans-serif;
+}
+
+input[type=text] {
+  background-color: crimson;
+  color: white;
+}
+
+select {
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: crimson;
+  color: white;
+}
+
+label{
+  color:black;
+}
+
+textarea {
+  height: 150px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: crimson;
+  color:white;
+  resize: none;
+}
+
+.logo{
+width: 50px;
+height: 50px;
+display: block;
+margin-left:auto;
+}
+
+.title{
+font-size: 30px;
+font-weight: bold;
+color:white;
+font-style: sans-serif;
+}
+.titlepage{
+font-size: 60px;
+font-weight: bold;
+color:black;
+font-style: sans-serif;
+text-align: center;
+}
+.index{
+  background-image: url('cheese.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.about{
+  background-image: url('cheese.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.services{
+  background-image: url('cheese.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.contact{
+  background-image: url('cheese.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.heading{
+  font-size: 20px;
+  font-style: sans-serif;
+  color:black;
+  font-weight:bold;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: #4CAF50;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
