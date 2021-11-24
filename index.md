@@ -40,4 +40,4 @@ Otherwise, here are direct links to the following projects I completed through s
 - [https://github.com/KaynenPellegrino/Python-projects-From-School] Python Projects
 - [https://github.com/KaynenPellegrino/Fans] FANS Robot
 - [https://github.com/KaynenPellegrino/Mock-Photography-Website] Mock Website
-<br>Finally, here is a downloadable copy of my<a href="files/Kaynen Pellegrino Student.docx" download>resume.</a>
+<br>Finally, here is a downloadable copy of my<a href="/Kaynen Pellegrino.docx" download> resume.</a>
